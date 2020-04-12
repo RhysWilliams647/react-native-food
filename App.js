@@ -1,5 +1,3 @@
-//  yelp client id: vzvAHgAuYADPpaONrbo04w
-//  yelp api key: 78fxxc5jon2aNjVV7yOndteY8_6iNoMxn13IybT-q7H2QmRc1bRHAYiNm3DK_a9XkObRQMYmmA2G7nBIKDENKvH3CeGTFEu5dPx0J2s6DQEwve5dDDukdxmqBlCTXnYx
 
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
